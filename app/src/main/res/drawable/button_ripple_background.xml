@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@android:color/secondary_text_light_nodisable">
+
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/colorSecondary" />
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+</ripple>
